@@ -4,12 +4,12 @@
   
   <em>
   Learning Java (soon Python) and studying Server Administration..</br>
-  Working on a Minecraft Hack Client for no rules Servers
+  Actually Working on a Minecraft Server called Empire Network
   </em></br></br>
   
   ### More about me
   
   <em>I'm from Spain. <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png" width="25"></br>
   Actually, 15 years old.</br>
-  I smoke weed everyday bro</em>
+  I smoke weed everyday 🦇</em>
   
